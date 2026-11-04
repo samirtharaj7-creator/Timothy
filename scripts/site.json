@@ -1,0 +1,67 @@
+{
+  "key": "timothy",
+  "title": "1 & 2 Timothy Study",
+  "domain": "timothy.mybibleexplorer.com",
+  "totalVerses": 196,
+  "totalChapters": 10,
+  "books": [
+    {
+      "slug": "1-timothy",
+      "name": "1 Timothy",
+      "verseCounts": [
+        20,
+        15,
+        16,
+        16,
+        25,
+        21
+      ]
+    },
+    {
+      "slug": "2-timothy",
+      "name": "2 Timothy",
+      "verseCounts": [
+        18,
+        26,
+        17,
+        22
+      ]
+    }
+  ],
+  "backgroundSections": [
+    [
+      "pauline-authorship",
+      "Pauline Authorship"
+    ],
+    [
+      "dates-and-places-of-writing",
+      "Dates and Places of Writing"
+    ],
+    [
+      "the-church-at-ephesus",
+      "The Church at Ephesus"
+    ],
+    [
+      "timothy-son-in-the-faith",
+      "Timothy, Son in the Faith"
+    ],
+    [
+      "pauls-final-years",
+      "Paul's Final Years"
+    ],
+    [
+      "the-false-teaching-at-ephesus",
+      "The False Teaching at Ephesus"
+    ],
+    [
+      "why-paul-wrote",
+      "Why Paul Wrote"
+    ],
+    [
+      "how-the-two-letters-fit-together",
+      "How the Two Letters Fit Together"
+    ]
+  ],
+  "timelineSection": "pauls-final-years",
+  "finalSection": "how-the-two-letters-fit-together"
+}
